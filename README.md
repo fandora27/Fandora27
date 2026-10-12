@@ -290,8 +290,6 @@ Technology matters when it solves real problems. Aim to create experiences that 
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/fandora27/fandora27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
-
 </div>
 
 ---

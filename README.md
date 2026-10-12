@@ -122,8 +122,6 @@ Learning by building, experimenting, identifying weaknesses, and improving the r
 
 </div>
 
-<sub>Note: Keep only the technologies and tools you actually use or are currently learning.</sub>
-
 ---
 
 ## `03` // PROJECTS.REGISTRY

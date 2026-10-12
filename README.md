@@ -1,26 +1,31 @@
-<!-- FANDORA · DIGITAL CRAFTSMANSHIP -->
+<!--
+  FANDORA — DIGITAL CRAFTSMANSHIP
+  GitHub Profile README
+  Repository: fandora27/fandora27
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080810,35:211044,70:14234A,100:080810&text=FANDORA&fontColor=FFFFFF&fontSize=76&fontAlignY=40&desc=WEB%20DEVELOPER%20%20%E2%80%A2%20%20DIGITAL%20CRAFTSMANSHIP&descSize=14&descAlignY=59&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" alt="Fandora — Digital Craftsmanship" />
-
 <a href="https://github.com/fandora27">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=520&height=35&lines=Turning+ideas+into+digital+experiences.;Building+the+web%2C+one+project+at+a+time.;Always+learning.+Always+building." alt="Animated introduction" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:05050A,30:17102F,65:152849,100:05050A&text=FANDORA&fontColor=FFFFFF&fontSize=88&fontAlignY=40&desc=CRAFTING%20DIGITAL%20EXPERIENCES&descSize=15&descAlignY=58&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" alt="FANDORA — Crafting Digital Experiences" />
 </a>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=520&height=35&lines=Web+Developer+%2F%2F+Digital+Creator;Turning+ideas+into+real+experiences.;Learning.+Building.+Refining." alt="Animated developer introduction" />
+
+<br/>
+
 <a href="https://github.com/fandora27?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
 </a>
-&nbsp;
-<a href="https://github.com/fandora27?tab=overview">
-  <img src="https://img.shields.io/badge/VIEW-PROFILE-111827?style=for-the-badge&logo=github&logoColor=white" alt="View profile" />
+<a href="https://github.com/fandora27">
+  <img src="https://img.shields.io/badge/GITHUB_PROFILE-151522?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=fandora27&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=fandora27&style=flat-square&color=8B5CF6&label=PROFILE+VISITORS" alt="Profile visitor counter" />
 
 </div>
 
@@ -28,77 +33,98 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-### `01` — THE DEVELOPER
+## 01 / THE DEVELOPER
 
 # Rifki Alvian Chilmi
 
-I build for the web, explore new technologies, and turn ideas into digital experiences.
+I'm a web developer who enjoys transforming ideas into meaningful digital experiences.
 
-My focus is on creating interfaces that feel intuitive, look distinctive, and work as beautifully as they look.
+I explore modern web technologies, experiment with different approaches, and pay attention to the details that make a website feel intuitive and distinctive.
 
-I care about the details, the experience, and the little things that make a project feel different.
+For me, development is more than writing code. It's about solving problems, learning continuously, and creating something worth using.
 
-**Current mindset:** Learn → Build → Refine.
+**Currently:** Exploring, building, and improving.
 
 </td>
-<td width="42%" valign="middle">
+<td width="38%" valign="middle">
 
-<img width="100%" src="https://skillicons.dev/icons?i=github,vscode,html,css,js&theme=dark" alt="Development icons" />
+<div align="center">
+
+<img width="100%" src="https://skillicons.dev/icons?i=github,vscode,html,css,js&theme=dark&perline=2" alt="Developer tools" />
 
 <br/><br/>
 
-**BASED IN**  
+**LOCATION**  
 Indonesia
 
 **FOCUS**  
 Web Development
 
-**PHILOSOPHY**  
-Make it useful. Make it memorable.
+**APPROACH**  
+Learn by building
+
+**MINDSET**  
+Progress over perfection
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:22D3EE,100:8B5CF6&height=2&section=header" alt="" />
-
-## `02` — TECH ARSENAL
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,vscode&theme=dark&perline=6" alt="Technology stack" />
-
-<br/><br/>
-
-<sub>Tools and technologies I use or explore throughout my development journey.</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,50:22D3EE,100:8B5CF6" alt="" />
 
 </div>
 
-## `03` — SELECTED WORK
+## 02 / TECHNOLOGY & TOOLS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,vscode&theme=dark&perline=6" alt="Web development technology icons" />
+
+<br/><br/>
+
+<sub>Technologies to explore and tools for building digital experiences.</sub>
+
+</div>
+
+## 03 / SELECTED PROJECTS
+
+<div align="center">
+
+<sub>A selection of projects from my development journey.</sub>
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Website Personal
+### 01 — Website Personal
 
-A personal website project focused on presenting identity and work through a digital experience.
+A personal website project focused on presenting identity, work, and ideas through the web.
+
+**Focus:** Personal web experience
 
 <a href="https://github.com/fandora27/Website-Personal">
-  <img src="https://img.shields.io/badge/EXPLORE-REPOSITORY-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Explore Website Personal" />
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="View Website Personal" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Website SIMBID
+### 02 — Website SIMBID
 
-A web-based information system project built around structured information and digital workflows.
+A website project centered on an information system and digital workflows.
+
+**Focus:** Web-based information system
 
 <a href="https://github.com/fandora27/Website-SIMBID">
-  <img src="https://img.shields.io/badge/EXPLORE-REPOSITORY-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Explore Website SIMBID" />
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="View Website SIMBID" />
 </a>
 
 </td>
@@ -106,12 +132,14 @@ A web-based information system project built around structured information and d
 <tr>
 <td colspan="2" valign="top">
 
-### ◈ Pendaftaran Online Pasien
+### 03 — Pendaftaran Online Pasien
 
-An online patient registration project focused on making registration accessible through a web interface.
+An online patient registration project designed around a web-based registration experience.
+
+**Focus:** Online registration
 
 <a href="https://github.com/fandora27/pendaftaran-online-pasien">
-  <img src="https://img.shields.io/badge/EXPLORE-REPOSITORY-22D3EE?style=flat-square&logo=github&logoColor=black" alt="Explore Pendaftaran Online Pasien" />
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-22D3EE?style=flat-square&logo=github&logoColor=black" alt="View Pendaftaran Online Pasien" />
 </a>
 
 </td>
@@ -121,54 +149,89 @@ An online patient registration project focused on making registration accessible
 <div align="center">
 
 <a href="https://github.com/fandora27?tab=repositories">
-  <img src="https://img.shields.io/badge/DISCOVER-MORE_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Discover more projects" />
+  <img src="https://img.shields.io/badge/DISCOVER_ALL_REPOSITORIES-151522?style=for-the-badge&logo=github&logoColor=white" alt="Discover all repositories" />
 </a>
 
 </div>
 
-## `04` — GITHUB INSIGHTS
+## 04 / THE BUILD JOURNEY
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fandora27&bg_color=080810&color=C4B5FD&line=8B5CF6&point=22D3EE&area=true&area_color=312E81&hide_border=true&custom_title=THE%20BUILD%20JOURNEY" alt="GitHub activity graph" />
+<a href="https://github.com/fandora27">
+  <img width="100%" src="https://ghchart.rshah.org/8B5CF6/fandora27" alt="GitHub contribution calendar" />
+</a>
 
 <br/>
 
+<sub>Every project is a chance to learn something new.</sub>
+
+<br/><br/>
+
 <a href="https://github.com/fandora27">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=fandora27&show_icons=true&hide_border=true&bg_color=080810&title_color=A78BFA&icon_color=22D3EE&text_color=D4D4D8&rank_icon=github" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/fandora27">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fandora27&layout=compact&hide_border=true&bg_color=080810&title_color=A78BFA&text_color=D4D4D8" alt="Most used languages" />
+  <img src="https://img.shields.io/badge/VIEW_MY_GITHUB_ACTIVITY-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity" />
 </a>
 
 </div>
 
-## `05` — BEYOND THE CODE
+## 05 / BEYOND THE CODE
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
-| EXPLORE | CREATE | IMPROVE |
-|:---:|:---:|:---:|
-| Discover new technologies | Turn ideas into projects | Refine every iteration |
+### EXPLORE
 
-<br/>
+Discover new technologies and fresh perspectives.
 
-*"Good design gets attention. Great experiences make people stay."*
+</td>
+<td width="34%" align="center" valign="top">
 
-</div>
+### CREATE
+
+Turn ideas into practical digital experiences.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### IMPROVE
+
+Learn from every project and refine the details.
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080810,40:211044,75:14234A,100:080810&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,50:22D3EE,100:8B5CF6" alt="" />
 
-**FANDORA** · Rifki Alvian Chilmi
+<br/>
 
-<sub>Designed with intention. Built with curiosity.</sub>
+*"Build with purpose. Design with intention. Keep evolving."*
 
-<a href="https://github.com/fandora27">GitHub</a>
-&nbsp;·&nbsp;
+<br/>
+
+<a href="https://github.com/fandora27">
+  <img src="https://img.shields.io/badge/FANDORA-05050A?style=for-the-badge&logo=github&logoColor=A78BFA" alt="FANDORA on GitHub" />
+</a>
+
+<br/><br/>
+
+<sub>Rifki Alvian Chilmi · Web Developer · Indonesia</sub>
+
+<br/><br/>
+
 <a href="https://github.com/fandora27?tab=repositories">Repositories</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/fandora27">GitHub Profile</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:05050A,40:17102F,75:152849,100:05050A" alt="" />
 
 </div>
+
+<!-- END OF README -->

@@ -1,238 +1,284 @@
-<!--
-  FANDORA27 | GitHub Profile
-  Identity: Web Development · UI/UX Design · Health Technology
--->
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!-- ║              FANDORA // DEVELOPER PROFILE            ║ -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:080B12,50:30105E,100:0891B2&text=FANDORA&fontColor=E6F1FF&fontSize=64&fontAlignY=38&desc=DESIGN%20%2F%2F%20ENGINEER%20%2F%2F%20INNOVATE&descSize=13&descAlignY=59&animation=fadeIn" width="100%" alt="Fandora profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,50:171044,100:00E5FF&text=FANDORA&fontColor=FFFFFF&fontSize=76&fontAlignY=42&animation=fadeIn&stroke=00E5FF&strokeWidth=1&desc=WEB%20DEVELOPER%20%2F%20UI%2FUX%20DESIGNER&descSize=15&descAlignY=63&descColor=B9C7FF" width="100%" alt="Fandora developer banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=%3E+Design.+Code.+Iterate.;%3E+Building+interfaces+with+purpose.;%3E+Exploring+the+intersection+of+UI%2FUX+%26+technology.;%3E+Turning+ideas+into+digital+experiences." alt="Animated developer tagline" />
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=620&height=35&lines=WEB+DEVELOPER+%2F%2F+UI%2FUX+DESIGNER;HEALTH+TECHNOLOGY+ENTHUSIAST;DESIGN+WITH+INTENT.+BUILD+WITH+PURPOSE." alt="Animated developer introduction"/>
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/fandora27">
-  <img src="https://img.shields.io/badge/GITHUB-fandora27-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GITHUB-fandora27-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
 <a href="https://fandora-project.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0D1117?style=for-the-badge&logo=vercel&logoColor=7C3AED" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-0D1117?style=for-the-badge&logo=vercel&logoColor=8B5CF6" alt="Portfolio"/>
 </a>
 <a href="https://www.instagram.com/rifkialvian.c/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-CONNECT-0D1117?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-CONNECT-0D1117?style=for-the-badge&logo=instagram&logoColor=FF4FD8" alt="Instagram"/>
 </a>
 
 <br/><br/>
 
-**RIFKI ALVIAN CHILMI**  
-`FANDORA27`
-
-*Thoughtful interfaces. Functional systems. Technology with purpose.*
+`SYSTEM STATUS` &nbsp; 🟢 ONLINE &nbsp; / &nbsp; `MODE` &nbsp; BUILDING &nbsp; / &nbsp; `VERSION` &nbsp; 2.0
 
 </div>
 
 ---
 
-## `01` / ABOUT ME
+## `01` // IDENTITY_PROTOCOL
 
-I'm a web developer and UI/UX designer interested in creating digital experiences that combine **visual clarity, usability, and functional engineering**.
+```text
+┌─────────────────────────────────────────────────────┐
+│  USER       : RIFKI ALVIAN CHILMI                   │
+│  ALIAS      : FANDORA                               │
+│  ROLE       : WEB DEVELOPER / UI/UX DESIGNER        │
+│  INTERESTS  : DIGITAL PRODUCTS · HEALTH TECH        │
+│  OBJECTIVE  : DESIGN BETTER. BUILD SMARTER.          │
+└─────────────────────────────────────────────────────┘
+```
 
-I enjoy exploring new technologies, designing interfaces, building web applications, and discovering how digital solutions can improve real-world workflows—especially in healthcare.
+I'm a web developer and UI/UX designer who enjoys turning ideas into digital experiences that feel intuitive, look intentional, and work as expected.
 
-- **Development** — Turning ideas into functional web experiences.
-- **UI/UX Design** — Designing intuitive interfaces with purposeful visual hierarchy.
-- **Health Technology** — Exploring healthcare information systems and digital innovation.
-- **Continuous Learning** — Experimenting, iterating, and improving through practical projects.
+My approach combines **interface design, frontend development, and practical problem-solving**. I'm especially interested in digital products and healthcare systems that make everyday workflows simpler.
 
-> Design should make technology easier to understand. Engineering should make it work.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ UI/UX DESIGN</h3>
+      Interface systems, visual hierarchy, usability, and user-centered experiences.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌘ WEB ENGINEERING</h3>
+      Responsive websites, functional interfaces, and practical web applications.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✳ HEALTH TECHNOLOGY</h3>
+      Exploring information systems and digital healthcare workflows.
+    </td>
+    <td width="50%" valign="top">
+      <h3>↗ EXPERIMENTATION</h3>
+      Testing ideas, learning new tools, and refining projects through iteration.
+    </td>
+  </tr>
+</table>
 
----
-
-## `02` / TECH STACK
-
-<p align="center">
-  <sub>TOOLS I USE AND TECHNOLOGIES I EXPLORE</sub>
-</p>
-
-**`01` — DEVELOPMENT**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark" alt="Web development technologies"/>
-</p>
-
-**`02` — UI/UX & VISUAL DESIGN**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Design tools"/>
-</p>
-
-**`03` — TOOLS & WORKFLOW**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel&theme=dark" alt="Development tools"/>
-</p>
-
-**`04` — AREAS OF INTEREST**
-
-<p>
-  <img src="https://img.shields.io/badge/UI%2FUX-USER--CENTERED%20DESIGN-7C3AED?style=flat-square&labelColor=0D1117" alt="UI UX design"/>
-  <img src="https://img.shields.io/badge/WEB-FRONTEND%20DEVELOPMENT-22D3EE?style=flat-square&labelColor=0D1117" alt="Web development"/>
-  <img src="https://img.shields.io/badge/HEALTH-DIGITAL%20INNOVATION-10B981?style=flat-square&labelColor=0D1117" alt="Health technology"/>
-</p>
+> `DESIGN WITH INTENT.` &nbsp; `ENGINEER WITH PURPOSE.`
 
 ---
 
-## `03` / PROJECT LAB
+## `02` // TECH_STACK.exe
 
-<p align="center">
-  <i>Selected projects, practical builds, and digital explorations.</i>
-</p>
+<div align="center">
 
-### `MODULE_001` — PERSONAL WEBSITE
+**[ 01 — DEVELOPMENT ]**
 
-**Web Development**
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark" alt="Development technologies" />
 
-A personal web project focused on presenting digital work, personal identity, and an online presence.
+<br/>
+
+**[ 02 — DESIGN STUDIO ]**
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Design tools" />
+
+<br/>
+
+**[ 03 — TOOLS & ENVIRONMENT ]**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel&theme=dark" alt="Development tools" />
+
+</div>
+
+<sub>Stack shown represents my working interests and tools. Remove any icon that doesn't reflect your actual experience.</sub>
+
+---
+
+## `03` // PROJECT_LAB
+
+<sub>INITIALIZING PROJECT DATABASE... 4 MODULES FOUND</sub>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### <code>MODULE_001</code>
+
+<h3>◈ PERSONAL WEBSITE</h3>
+
+<img src="https://img.shields.io/badge/TYPE-WEB%20DEVELOPMENT-111827?style=flat-square&labelColor=111827&color=7C3AED" alt="Web development"/>
+
+A personal web project focused on digital identity, online presence, and presenting work through a dedicated website.
 
 `WEB DESIGN` · `DEVELOPMENT`
 
-[Explore repository →](https://github.com/fandora27/Website-Personal)
+<br/>
 
----
+<a href="https://github.com/fandora27/Website-Personal">⟶ ACCESS REPOSITORY</a>
 
-### `MODULE_002` — WEBSITE SIMBID
+</td>
+<td width="50%" valign="top">
 
-**Information System**
+### <code>MODULE_002</code>
 
-A web-based information system project focused on organizing information and supporting digital workflows.
+<h3>▣ WEBSITE SIMBID</h3>
 
-`INFORMATION SYSTEM` · `WEB DEVELOPMENT`
+<img src="https://img.shields.io/badge/TYPE-INFORMATION%20SYSTEM-111827?style=flat-square&labelColor=111827&color=00B8D9" alt="Information system"/>
 
-[Explore repository →](https://github.com/fandora27/Website-SIMBID)
+A web-based information system project exploring structured information management and digital workflows.
 
----
+`INFORMATION SYSTEM` · `WEB`
 
-### `MODULE_003` — ONLINE PATIENT REGISTRATION
+<br/>
 
-**Health Technology**
+<a href="https://github.com/fandora27/Website-SIMBID">⟶ ACCESS REPOSITORY</a>
 
-A healthcare-oriented web project exploring digital patient registration and online service workflows.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <code>MODULE_003</code>
+
+<h3>✚ ONLINE PATIENT REGISTRATION</h3>
+
+<img src="https://img.shields.io/badge/TYPE-HEALTH%20TECH-111827?style=flat-square&labelColor=111827&color=10B981" alt="Health technology"/>
+
+A healthcare-oriented web project exploring online patient registration and more accessible digital service workflows.
 
 `HEALTHCARE` · `DIGITAL SERVICES`
 
-[Explore repository →](https://github.com/fandora27/pendaftaran-online-pasien)
+<br/>
+
+<a href="https://github.com/fandora27/pendaftaran-online-pasien">⟶ ACCESS REPOSITORY</a>
+
+</td>
+<td width="50%" valign="top">
+
+### <code>MODULE_004</code>
+
+<h3>⌘ DESIGN & DEV EXPLORATIONS</h3>
+
+<img src="https://img.shields.io/badge/TYPE-EXPERIMENTAL-111827?style=flat-square&labelColor=111827&color=FF4FD8" alt="Design experiments"/>
+
+An evolving collection of interface explorations, prototypes, development experiments, and ideas for more intuitive digital products.
+
+`UI/UX` · `PROTOTYPING` · `EXPERIMENTS`
+
+<br/>
+
+<a href="https://github.com/fandora27?tab=repositories">⟶ EXPLORE ALL REPOSITORIES</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### `MODULE_004` — DESIGN & DEVELOPMENT EXPLORATIONS
+## `04` // ENGINEERING_PHILOSOPHY
 
-**UI/UX · Prototyping · Web Experiments**
+<div align="center">
 
-An evolving collection of interface explorations, development experiments, and ideas for more intuitive digital experiences.
+<img src="https://img.shields.io/badge/CORE_DIRECTIVE-BUILD_WITH_INTENTION-0D1117?style=for-the-badge&logo=target&logoColor=00E5FF" alt="Core directive"/>
 
-`INTERFACE DESIGN` · `PROTOTYPING` · `EXPERIMENTATION`
+</div>
 
-[Explore all repositories →](https://github.com/fandora27?tab=repositories)
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
----
+**`01` ◈ CURIOSITY**
 
-## `04` / ENGINEERING PHILOSOPHY
+`EXPLORE / QUESTION / UNDERSTAND`
 
-<p align="center">
-  <i>How I think shapes what I build.</i>
-</p>
+Explore unfamiliar technologies and challenge assumptions. Better solutions often begin with better questions.
 
-### `01` — CURIOSITY
+</td>
+<td valign="top" width="50%">
 
-<sub>EXPLORE · QUESTION · UNDERSTAND</sub>
+**`02` ⌘ CRAFT**
 
-Explore unfamiliar technologies, challenge assumptions, and look beyond the obvious. Every project starts with a question worth solving.
+`DETAIL / CLARITY / CONSISTENCY`
 
----
+Treat every pixel and component with care. Good UI/UX and maintainable code should complement each other.
 
-### `02` — CRAFT
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-<sub>DETAIL · CLARITY · CONSISTENCY</sub>
+**`03` ↻ ITERATION**
 
-Care about the experience behind every pixel and the logic behind every component. Thoughtful UI/UX and maintainable code should work together, not compete.
+`BUILD / TEST / REFINE`
 
----
+The first version is a starting point. Learn from experiments, identify weaknesses, and improve the result.
 
-### `03` — ITERATION
+</td>
+<td valign="top" width="50%">
 
-<sub>BUILD · TEST · LEARN · REFINE</sub>
+**`04` ✳ PURPOSE**
 
-The first version is a starting point, not the finish line. Improve through experimentation, feedback, and continuous refinement of design and functionality.
+`PEOPLE FIRST / TECHNOLOGY WITH INTENT`
 
----
+Build experiences that solve meaningful problems and make digital interactions more useful and intuitive.
 
-### `04` — PURPOSE
-
-<sub>PEOPLE FIRST · TECHNOLOGY WITH INTENT</sub>
-
-Technology has value when it solves meaningful problems. Aim to create digital experiences that are useful, intuitive, accessible, and grounded in real human needs.
-
----
-
-## `05` / DIGITAL FOOTPRINT
-
-<p align="center">
-  <i>Every commit is a step forward. Every project is an opportunity to learn.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fandora27">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=fandora27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics"/>
-  </a>
-  <a href="https://github.com/fandora27">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fandora27&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=6" alt="Most used programming languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>CONTRIBUTION ACTIVITY</b><br/>
-  <sub>Consistency over perfection.</sub>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fandora27/fandora27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fandora27?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Explore all repositories"/>
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## `06` / CONNECTION TERMINAL
+## `05` // DIGITAL_FOOTPRINT
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=600&height=35&lines=READY+TO+BUILD+SOMETHING+MEANINGFUL%3F;LET%27S+CONNECT+AND+CREATE" alt="Animated connection message"/>
-</p>
+<sub>CONTRIBUTION MONITOR // LIVE PROFILE DATA</sub>
 
-<p align="center">
-  <a href="https://github.com/fandora27">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20THE%20JOURNEY-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/>
-  </a>
-  <a href="https://www.instagram.com/rifkialvian.c/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-SAY%20HELLO-0D1117?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram"/>
-  </a>
-  <a href="https://fandora-project.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20MY%20WORK-0D1117?style=for-the-badge&logo=vercel&logoColor=7C3AED" alt="Portfolio"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>FANDORA // RIFKI ALVIAN CHILMI</b>
-  <br/><br/>
-  <code>THINK IN SYSTEMS</code> &nbsp; · &nbsp; <code>BUILD WITH PURPOSE</code> &nbsp; · &nbsp; <code>STAY CURIOUS</code>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=fandora27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00E5FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fandora27&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=6" width="49%" alt="Most used languages"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,45:4C1D95,100:080B12&height=130&section=footer" width="100%" alt="Cyberpunk footer"/>
-</p>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/fandora27/fandora27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## `06` // CONNECTION_TERMINAL
+
+<div align="center">
+
+```text
+┌───────────────────────────────────────────────┐
+│  CONNECTION ESTABLISHED                       │
+│                                               │
+│  Interested in design, development, or ideas?  │
+│  Let's connect and build something useful.    │
+│                                               │
+│  STATUS : OPEN TO EXPLORATION                 │
+└───────────────────────────────────────────────┘
+```
+
+<a href="https://github.com/fandora27">
+  <img src="https://img.shields.io/badge/CONNECT_ON-GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Connect on GitHub"/>
+</a>
+<a href="https://www.instagram.com/rifkialvian.c/">
+  <img src="https://img.shields.io/badge/FIND_ME-INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=FF4FD8" alt="Instagram"/>
+</a>
+<a href="https://fandora-project.vercel.app/">
+  <img src="https://img.shields.io/badge/VISIT-MY%20PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=8B5CF6" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:00E5FF,100:FF4FD8&section=footer" width="100%" alt="Neon divider"/>
+
+<sub><code>FANDORA // DESIGN × CODE × CONTINUOUS LEARNING</code></sub>
+
+<sub>Crafted with intention. Powered by curiosity.</sub>
+
+</div>

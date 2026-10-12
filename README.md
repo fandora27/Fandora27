@@ -1,59 +1,105 @@
-<img src="assets/hero.svg" alt="Rifki Alvian Chilmi. Web developer, with an interest in health tech." width="100%">
+# Hey, I'm Fandora 👋
 
-<br>
+### Web Developer · Building Digital Experiences
 
-<img src="assets/section-01.svg" alt="01 About" width="100%">
+I enjoy turning ideas into digital experiences through thoughtful design, clean interfaces, and modern web technologies.
 
-I build modern, responsive, and user-friendly websites. I'm also interested in health technology, and [Fandora](https://fandora-project.vercel.app/) is the personal project where I explore it.
+I believe great websites should feel intuitive, look distinctive, and work beautifully — not just function.
 
-I like turning ideas into working websites and trying out new technologies.
+<p align="left">
+  <a href="https://github.com/fandora27">
+    <img src="https://img.shields.io/badge/GitHub-fandora27-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-7C7CFF?style=flat-square" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Always-Learning-30CFCF?style=flat-square" alt="Always Learning" />
+</p>
 
-Currently working on personal web projects. Based in Indonesia.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:17152C,100:09252C&height=2&section=header" alt="Decorative divider" />
 
-<br>
+## A Little About Me
 
-<img src="assets/section-02.svg" alt="02 Featured work" width="100%">
+```yaml
+name: Rifki Alvian Chilmi
+username: fandora27
+role: Web Developer
+interests:
+  - Web Development
+  - UI/UX & Interface Design
+  - Modern Web Technologies
+  - Building Useful Digital Products
+mindset: Learn. Build. Refine. Repeat.
+```
 
-**[Fandora](https://fandora-project.vercel.app/)** ↗
-<br>A site about digital health technology and health IT: health information systems, medical records, healthcare data, and UI/UX. It also shows concept designs, such as a queue system (Q-Med) and a healthcare statistics dashboard.
-<br>`Web` `Health tech`
+I’m continuously exploring better ways to build for the web, experimenting with new tools, and improving the details that make a digital product memorable.
 
-**[pendaftaran-online-pasien](https://github.com/fandora27/pendaftaran-online-pasien)** ↗
-<br>Online patient registration app.
-<br>`TypeScript` `Next.js`
+## Selected Projects
 
-**Also on GitHub**
-<br>[Website-Personal](https://github.com/fandora27/Website-Personal) · `TypeScript`
-<br>[Website-SIMBID](https://github.com/fandora27/Website-SIMBID)
-<br>[tumbuh-ceria](https://github.com/fandora27/tumbuh-ceria) · `TypeScript`
-<br>[fandora27.github.io](https://github.com/fandora27/fandora27.github.io) · `HTML`
+A few projects from my development journey.
 
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Website Personal</h3>
+      A personal website project focused on presenting identity, work, and ideas through the web.
+      <br/><br/>
+      <a href="https://github.com/fandora27/Website-Personal">Explore Repository ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Website SIMBID</h3>
+      A web project exploring the development of a dedicated information system.
+      <br/><br/>
+      <a href="https://github.com/fandora27/Website-SIMBID">Explore Repository ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>03 · Pendaftaran Online Pasien</h3>
+      An online patient registration project focused on making the registration process accessible through a web interface.
+      <br/><br/>
+      <a href="https://github.com/fandora27/pendaftaran-online-pasien">Explore Repository ↗</a>
+    </td>
+  </tr>
+</table>
 
-<img src="assets/section-03.svg" alt="03 Stack" width="100%">
+## Tools & Technologies
 
-**Web**
-<br>`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Sass` `Node.js` `PHP` `Laravel`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,vscode&theme=dark&perline=6" alt="Development tools and technologies" />
+</p>
 
-**Databases and cloud**
-<br>`MongoDB` `MySQL` `PostgreSQL` `SQL Server` `Firebase` `AWS`
+*My toolkit evolves as I explore new ideas and build new things.*
 
-**Languages and tooling**
-<br>`Java` `Python` `Git` `Docker` `Zapier` `IFTTT`
+## GitHub Activity
 
-**Design, mobile, and games**
-<br>`Figma` `Illustrator` `Flutter` `Android` `Unity` `Unreal Engine`
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fandora27&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=22d3ee&area=true&hide_border=true&custom_title=Contributions%20%26%20Activity" alt="GitHub contribution activity graph" />
+</p>
 
-<br>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fandora27&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fandora27&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Most used programming languages" />
+</p>
 
-<img src="assets/section-04.svg" alt="04 Activity" width="100%">
+## Beyond the Code
 
-<a href="https://github.com/fandora27"><img height="170" src="https://github-readme-stats.vercel.app/api?username=fandora27&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;border_radius=0&amp;bg_color=0d1117&amp;title_color=22d3ee&amp;text_color=aab6bd&amp;icon_color=22d3ee&amp;locale=en" alt="GitHub stats for fandora27"></a>
-<a href="https://github.com/fandora27"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fandora27&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;border_radius=0&amp;bg_color=0d1117&amp;title_color=22d3ee&amp;text_color=aab6bd&amp;locale=en" alt="Most used languages on GitHub"></a>
+- I enjoy discovering new ideas and turning them into real projects.
+- I'm always looking for ways to improve my development workflow.
+- I believe consistency and curiosity matter more than knowing everything.
 
-<br>
+## Let's Connect
 
-<img src="assets/section-05.svg" alt="05 Connect" width="100%">
+I'm always open to connecting with fellow developers, sharing ideas, and discovering interesting projects.
 
-[rifkialvianchilmi@gmail.com](mailto:rifkialvianchilmi@gmail.com)
-<br>[LinkedIn](https://www.linkedin.com/in/rifki-alvian-chilmi) · [Instagram](https://www.instagram.com/rifkialvian.c/) · [Fandora](https://fandora-project.vercel.app/)
+<p align="left">
+  <a href="https://github.com/fandora27">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Designed with intention. Built with curiosity. Improved with every iteration.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17152C,50:34205A,100:09252C&height=100&section=footer" width="100%" alt="Decorative footer" />
+</p>

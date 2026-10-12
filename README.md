@@ -1,6 +1,6 @@
 <!-- ===================================================== -->
-<!-- FANDORA — GITHUB PROFILE README                     -->
-<!-- DESIGN SYSTEM: DARK / VIOLET / CYAN                 -->
+<!-- FANDORA — PROFILE README                            -->
+<!-- DESIGN: CYBER EDITORIAL / VIOLET / CYAN             -->
 <!-- ===================================================== -->
 
 <div align="center">
@@ -11,209 +11,143 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=520&height=36&lines=WEB+DEVELOPER;BUILDING+IDEAS+INTO+DIGITAL+EXPERIENCES;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Developer introduction" />
 
-  <br>
+  <br><br>
 
-  <samp>THINK IN SYSTEMS · BUILD WITH PURPOSE · STAY CURIOUS</samp>
+  <img src="https://img.shields.io/badge/THINK-08BDBA?style=flat-square" alt="Think" />
+  <img src="https://img.shields.io/badge/BUILD-7C3AED?style=flat-square" alt="Build" />
+  <img src="https://img.shields.io/badge/EVOLVE-08BDBA?style=flat-square" alt="Evolve" />
 
   <br><br>
 
-  <a href="https://github.com/fandora27">
-    <img src="https://img.shields.io/badge/GITHUB-FANDORA27-161B22?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub profile" />
-  </a>
   <a href="https://github.com/fandora27?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-EXPLORE-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore projects" />
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Explore projects" />
+  </a>
+
+  <a href="https://github.com/fandora27?tab=followers">
+    <img src="https://img.shields.io/badge/FOLLOW_MY_JOURNEY-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Follow my journey" />
   </a>
 
 </div>
 
 ---
 
-## `01` // SYSTEM IDENTITY
-
-<table>
-  <tr>
-    <td width="68%" valign="top">
+## `01` / SYSTEM IDENTITY
 
 ### Building with intention.
 
 I'm **Rifki Alvian Chilmi**, known online as **Fandora**.
 
-I'm a web developer interested in creating functional, thoughtful, and visually engaging digital experiences.
+A web developer interested in creating digital experiences that balance functionality, usability, and visual design.
 
-I enjoy exploring new technologies, turning ideas into working projects, and improving my development skills through experimentation.
+I enjoy exploring technologies, experimenting with ideas, and turning concepts into working projects.
 
-**CURRENT FOCUS**
+**CURRENT DIRECTION**
 
-- `01` — Building useful web experiences.
-- `02` — Exploring modern development tools.
-- `03` — Improving UI/UX and code quality.
-- `04` — Learning by building real projects.
+- `01` — Build meaningful web experiences.
+- `02` — Explore modern development tools.
+- `03` — Improve interface design and usability.
+- `04` — Learn by building real projects.
 
-    </td>
-    <td width="32%" align="center" valign="middle">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=145&text=F%2F&fontSize=66&fontColor=EDE9FE&fontAlignY=43&desc=DESIGN%20%2F%20DEVELOP%20%2F%20EVOLVE&descSize=9&descAlignY=78&color=0:17102F,100:082B36" width="100%" alt="Fandora monogram" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-7C3AED?style=flat-square" alt="Always learning" />
-
-    </td>
-  </tr>
-</table>
+> *Good design makes things clear. Good engineering makes them work.*
 
 ---
 
-## `02` // TECH MATRIX
+## `02` / TECH MATRIX
 
-<p>
-  <samp>TOOLS ARE THE MEDIUM. PROBLEM-SOLVING IS THE SKILL.</samp>
-</p>
+<samp>MY TOOLKIT · MY WORKFLOW · MY CONTINUOUS LEARNING</samp>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
+### `01` — Languages
 
-**01 / LANGUAGES**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" alt="Languages" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" width="100%" alt="Languages" />
+### `02` — Frameworks & Styling
 
-    </td>
-    <td width="33%" valign="top">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="Frameworks and styling" />
 
-**02 / FRAMEWORKS**
+### `03` — Development Tools
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" width="100%" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,npm&theme=dark" alt="Development tools" />
 
-    </td>
-    <td width="33%" valign="top">
-
-**03 / TOOLS**
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,npm&theme=dark" width="100%" alt="Development tools" />
-
-    </td>
-  </tr>
-</table>
-
-<sub>TECH STACK · KEEP IT HONEST · KEEP IT EVOLVING</sub>
+<sub>LEARN CONTINUOUSLY. CHOOSE TOOLS WITH PURPOSE.</sub>
 
 ---
 
-## `03` // PROJECT LAB
+## `03` / PROJECT LAB
 
-<p>
-  <samp>SELECTED BUILDS · ENGINEERING LOG</samp>
-</p>
+<samp>SELECTED BUILDS / ENGINEERING LOG</samp>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+A collection of projects exploring web experiences, information systems, and practical digital solutions.
 
-<img src="https://img.shields.io/badge/MODULE_001-7C3AED?style=flat-square" alt="Module 001" />
+### <icon-placeholder></icon-placeholder> `MODULE_001` — PERSONAL WEB
 
-### Website Personal
+**Website Personal**
 
 A personal website project focused on identity, presentation, and digital experiences.
 
-<br>
+<img src="https://img.shields.io/badge/PERSONAL_BRANDING-7C3AED?style=flat-square" alt="Personal branding" />
+<img src="https://img.shields.io/badge/WEB_EXPERIENCE-161B22?style=flat-square" alt="Web experience" />
 
-<a href="https://github.com/fandora27/Website-Personal">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE-161B22?style=for-the-badge&logo=github&logoColor=A78BFA" alt="View source" />
-</a>
+[**↗ VIEW SOURCE CODE**](https://github.com/fandora27/Website-Personal)
 
-<br><br>
+---
 
-<sub>PERSONAL BRANDING / WEB EXPERIENCE</sub>
+### `MODULE_002` — INFORMATION SYSTEM
 
-    </td>
-    <td width="50%" valign="top">
+**Website SIMBID**
 
-<img src="https://img.shields.io/badge/MODULE_002-0891B2?style=flat-square" alt="Module 002" />
+A web-based information system project focused on organizing information and supporting digital workflows.
 
-### Website SIMBID
+<img src="https://img.shields.io/badge/INFORMATION_SYSTEM-0891B2?style=flat-square" alt="Information system" />
+<img src="https://img.shields.io/badge/WEB_APPLICATION-161B22?style=flat-square" alt="Web application" />
 
-A web-based information system project focused on organizing information and digital workflows.
+[**↗ VIEW SOURCE CODE**](https://github.com/fandora27/Website-SIMBID)
 
-<br>
+---
 
-<a href="https://github.com/fandora27/Website-SIMBID">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View source" />
-</a>
+### `MODULE_003` — DIGITAL HEALTHCARE
 
-<br><br>
+**Pendaftaran Online Pasien**
 
-<sub>INFORMATION SYSTEM / WEB APPLICATION</sub>
+A web-based patient registration project focused on creating a more organized digital registration experience.
 
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+<img src="https://img.shields.io/badge/DIGITAL_HEALTHCARE-7C3AED?style=flat-square" alt="Digital healthcare" />
+<img src="https://img.shields.io/badge/REGISTRATION-161B22?style=flat-square" alt="Registration" />
 
-<img src="https://img.shields.io/badge/MODULE_003-7C3AED?style=flat-square" alt="Module 003" />
+[**↗ VIEW SOURCE CODE**](https://github.com/fandora27/pendaftaran-online-pasien)
 
-### Pendaftaran Online Pasien
-
-A web-based patient registration project focused on a more organized digital registration experience.
-
-<br>
-
-<a href="https://github.com/fandora27/pendaftaran-online-pasien">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE-161B22?style=for-the-badge&logo=github&logoColor=A78BFA" alt="View source" />
-</a>
-
-<br><br>
-
-<sub>HEALTHCARE / DIGITAL REGISTRATION</sub>
-
-    </td>
-  </tr>
-</table>
+---
 
 <div align="center">
 
   <samp>BUILD → TEST → REFINE → REPEAT</samp>
 
+  <br>
+
+  <sub>THREE PROJECTS. MORE IDEAS IN PROGRESS.</sub>
+
 </div>
 
 ---
 
-## `04` // DEVELOPER MINDSET
+## `04` / DEVELOPER MINDSET
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### `01` — Curiosity
 
-### `01` / Curiosity
+Explore unfamiliar technologies. Ask questions, understand how things work, and stay open to new ideas.
 
-Stay curious. Explore unfamiliar tools, understand how things work, and keep learning.
+### `02` — Craft
 
-    </td>
-    <td width="50%" valign="top">
+Care about the details. Create interfaces that feel intentional and code that remains understandable.
 
-### `02` / Craft
+### `03` — Iteration
 
-Care about the details. Build interfaces that feel intentional and code that stays understandable.
+Build, test, learn, and improve. Every iteration is a chance to make something better.
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+### `04` — Purpose
 
-### `03` / Iteration
+Technology matters when it solves real problems and creates genuinely useful experiences.
 
-Build, test, learn, and improve. Every iteration is an opportunity to do better.
-
-    </td>
-    <td width="50%" valign="top">
-
-### `04` / Purpose
-
-Use technology to solve problems and create experiences that are genuinely useful.
-
-    </td>
-  </tr>
-</table>
+---
 
 <div align="center">
 
@@ -221,44 +155,42 @@ Use technology to solve problems and create experiences that are genuinely usefu
 
   <samp>LESS NOISE. MORE PURPOSE. BETTER BUILDS.</samp>
 
+  <br><br>
+
+  <img src="https://img.shields.io/badge/MINDSET-ALWAYS_LEARNING-7C3AED?style=for-the-badge" alt="Always learning" />
+
 </div>
 
 ---
 
-## `05` // DIGITAL FOOTPRINT
+## `05` / DIGITAL FOOTPRINT
 
-<p>
-  <samp>ACTIVITY LOG · OPEN SOURCE · CONTINUOUS PROGRESS</samp>
-</p>
+<samp>ACTIVITY LOG · OPEN SOURCE · CONTINUOUS PROGRESS</samp>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fandora27&theme=github_dark" width="100%" alt="GitHub contribution overview" />
-</p>
+### CONTRIBUTION OVERVIEW
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fandora27&theme=github_dark" width="100%" alt="GitHub contribution overview" />
+
+### DEVELOPER STATISTICS
 
 <img src="https://github-readme-stats.vercel.app/api?username=fandora27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" width="100%" alt="GitHub statistics" />
 
-    </td>
-    <td width="50%" valign="top">
+### LANGUAGE DISTRIBUTION
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fandora27&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" width="100%" alt="Most used languages" />
 
-    </td>
-  </tr>
-</table>
+### CONTRIBUTION STREAK
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fandora27&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" width="100%" alt="GitHub contribution streak" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=fandora27&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" width="100%" alt="GitHub contribution streak" />
 
 <div align="center">
+
+  <br>
 
   <a href="https://github.com/fandora27?tab=repositories">
     <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Explore repositories" />
   </a>
+
   <a href="https://github.com/fandora27?tab=followers">
     <img src="https://img.shields.io/badge/CONNECT_ON_GITHUB-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Connect on GitHub" />
   </a>
